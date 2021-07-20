@@ -1,6 +1,6 @@
 # cocilib
 
-A Swift bridge to OCILIB library (https://github.com/vrogier/ocilib/tree/develop-v4.7.1)
+A Swift bridge to OCILIB library (https://github.com/vrogier/ocilib)
 
 - Install Oracle Instant Client and Instant Client SDK
 - Clone OCILIB
