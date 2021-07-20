@@ -1,5 +1,0 @@
-module cocilib [system] {
-  header "/usr/local/include/ocilib.h"
-  link "ocilib"
-  export *
-}
